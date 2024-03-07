@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2374D32C&title_bg=%23595A6A&icon=docker.svg&icon_color=%230034FF&title=Docker&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunwoo8873&count_bg=%237DCD40&title_bg=%23B8B0B0&icon=docker.svg&icon_color=%230117FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
