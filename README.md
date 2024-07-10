@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
+[notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
 <!--
 **gunwoo8873/gunwoo8873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
