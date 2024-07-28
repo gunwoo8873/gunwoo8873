@@ -1,5 +1,24 @@
-## Hi there 👋
+```rust
+struct userdata {
+    name : String,
+    age : u32,
+    target : String,
+    skill : String,
+}
+fn main() {
+    let user_info = userdata {
+        name : String :: from("Choigunwoo"),
+        age : 27,
+        target : String :: from("DevOps engineer"),
+        skill : String :: from("Shell, PowerShell, Docker, Rust")
+    }
 
+    println!("Name : {}", user_info.name);
+    println!("Age : {}", user_info.age);
+    println!("Target : {}", user_info.target);
+    println!("Skill : {}", user_info.skill);
+}
+```
 [notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
 <!--
 **gunwoo8873/gunwoo8873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
