@@ -11,8 +11,8 @@ fn main() {
         name : String :: from("Choigunwoo"),
         age : 27,
         target : String :: from("DevOps engineer"),
-        skill : String :: from("Shell, PowerShell, Docker, Rust")
-        email : String :: from("gunwoo8873@outlook.kr")
+        skill : String :: from("Shell, PowerShell, Docker, Rust"),
+        email : String :: from("gunwoo8873@outlook.kr"),
     }
 
     println!("Name : {}", user_info.name);
