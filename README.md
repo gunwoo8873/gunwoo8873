@@ -4,6 +4,7 @@ struct userdata {
     age : u32,
     target : String,
     skill : String,
+    email : String,
 }
 fn main() {
     let user_info = userdata {
@@ -11,12 +12,14 @@ fn main() {
         age : 27,
         target : String :: from("DevOps engineer"),
         skill : String :: from("Shell, PowerShell, Docker, Rust")
+        email : String :: from("gunwoo8873@outlook.kr")
     }
 
     println!("Name : {}", user_info.name);
     println!("Age : {}", user_info.age);
     println!("Target : {}", user_info.target);
     println!("Skill : {}", user_info.skill);
+    println!("email : {}", user_info.email);
 }
 ```
 [notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
