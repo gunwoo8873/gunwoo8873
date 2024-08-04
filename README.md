@@ -1,25 +1,36 @@
 ```rust
-struct userdata {
+struct Datatype {
     name : String,
-    age : u32,
-    target : String,
-    skill : String,
+    age : i32,
     email : String,
+    address : String,
+    skill : String,
+    count : u64,
+    ative : bool,
 }
-fn main() {
-    let user_info = userdata {
-        name : String :: from("Choigunwoo"),
-        age : 27,
-        target : String :: from("DevOps engineer"),
-        skill : String :: from("Shell, PowerShell, Docker, Rust"),
-        email : String :: from("gunwoo8873@outlook.kr"),
-    }
 
-    println!("Name : {}", user_info.name);
-    println!("Age : {}", user_info.age);
-    println!("Target : {}", user_info.target);
-    println!("Skill : {}", user_info.skill);
-    println!("email : {}", user_info.email);
+fn main() {
+    user_info();
+}
+
+fn user_info() {
+    let user = Datatype {
+        name : String :: from("choigunwoo"),
+        age : 27,
+        email : String :: from("gunwoo8873@outlook.kr"),
+        address : String :: from("seoul"),
+        skill : String :: from("Shell, Powershell, Rust"),
+        count : 1,
+        ative : true,
+    };
+
+    println!("name : {}", user.name);
+    println!("age : {}", user.age);
+    println!("email : {}", user.email);
+    println!("address : {}", user.address);
+    println!("skill : {}", user.skill);
+    println!("count : {}", user.count);
+    println!("ative : {}", user.ative);
 }
 ```
 [notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
