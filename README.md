@@ -16,7 +16,7 @@ fn user_info() {
 }
 ```
 ```bash
-NAME        STATUS        RANGUAGE            COMPLATE(%)
+NAME        STATUS        RANGUAGE            COMPLETE(%)
 CMD         PENDING       POWSHELL,SHELL      20%
 RUST        RUNNING       RUST                10%
 MID-1       PENDING       DOCKER,K8S,SHELL    -
