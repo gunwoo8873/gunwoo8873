@@ -1,14 +1,4 @@
 ```rust
-struct Datatype {
-    name : String,
-    age : i32,
-    email : String,
-    address : String,
-    skill : String,
-    count : u64,
-    ative : bool,
-}
-
 fn main() {
     user_info();
 }
@@ -23,15 +13,15 @@ fn user_info() {
         count : 1,
         ative : true,
     };
-
-    println!("name : {}", user.name);
-    println!("age : {}", user.age);
-    println!("email : {}", user.email);
-    println!("address : {}", user.address);
-    println!("skill : {}", user.skill);
-    println!("count : {}", user.count);
-    println!("ative : {}", user.ative);
 }
+```
+```bash
+NAME        STATUS        RANGUAGE            COMPLATE(%)
+CMD         PENDING       POWSHELL,SHELL      20%
+RUST        RUNNING       RUST                10%
+MID-1       PENDING       DOCKER,K8S,SHELL    -
+MID-2       PENDING       DOCKER,K8S,SHELL    -
+FINAL       PENDING       DOCKER,K8S,SHELL    -
 ```
 [notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
 <!--
