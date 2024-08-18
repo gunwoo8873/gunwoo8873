@@ -18,10 +18,10 @@ fn user_info() {
 ```bash
 NAME        STATUS        RANGUAGE            COMPLETE(%)
 CMD         STOP          POWERSHELL,SHELL    20%(Pending)
-RUST        RUNNING       RUST                12%(Pending)
-MID-1       PENDING       DOCKER,K8S,SHELL    80%(Running)
-MID-2       STOP          DOCKER,K8S,SHELL    -
-FINAL       STOP          DOCKER,K8S,SHELL    -
+RUST        RUNNING       RUST                12%(Running)
+MID-1       PENDING       DOCKER,K8S,SHELL    90%(Success)
+MID-2       STOP          DOCKER,K8S,SHELL    -(Pending)
+FINAL       STOP          DOCKER,K8S,SHELL    -(Pending)
 ```
 [notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
 <!--
