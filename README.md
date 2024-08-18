@@ -19,7 +19,7 @@ fn user_info() {
 NAME        STATUS        RANGUAGE            COMPLETE(%)
 CMD         STOP          POWERSHELL,SHELL    20%(Pending)
 RUST        RUNNING       RUST                12%(Pending)
-MID-1       PENDING       DOCKER,K8S,SHELL    40%(Running)
+MID-1       PENDING       DOCKER,K8S,SHELL    80%(Running)
 MID-2       STOP          DOCKER,K8S,SHELL    -
 FINAL       STOP          DOCKER,K8S,SHELL    -
 ```
