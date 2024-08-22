@@ -19,7 +19,7 @@ fn user_info() {
 NAME        STATUS        RANGUAGE            COMPLETE(%)         POSITION        REPOSITORY
 CMD         STOP          POWERSHELL,SHELL    20%(Pending)        
 RUST        RUNNING       RUST                12%(Running)        
-MID-1       PENDING       DOCKER,K8S,SHELL    90%(Success)        CI / CD         [Mid-Project](https://github.com/gunwoo8873/likelion-midproject-1.git)
+MID-1       PENDING       DOCKER,K8S,SHELL    90%(Success)        CI / CD         https://github.com/gunwoo8873/likelion-midproject-1.git
 MID-2       STOP          DOCKER,K8S,SHELL    -(Pending)
 FINAL       STOP          DOCKER,K8S,SHELL    -(Pending)
 ```
