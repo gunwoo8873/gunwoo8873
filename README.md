@@ -23,5 +23,5 @@ MID-1       PENDING       DOCKER,K8S,SHELL    90%(Success)        CI / CD       
 MID-2       STOP          DOCKER,K8S,SHELL    -(Pending)
 FINAL       STOP          DOCKER,K8S,SHELL    -(Pending)
 ```
-[1. Mid-Project-N.1](https://github.com/gunwoo8873/TECHIT-midproject-1)
-[notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
+[1. Mid-Project-N.1](https://github.com/gunwoo8873/TECHIT-midproject-1)  
+[Learn-Notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
