@@ -15,7 +15,7 @@ fn user_info() {
     };
 }
 ```
-```bash
+```md
 NAME        STATUS        RANGUAGE            COMPLETE(%)         POSITION        REPOSITORY
 CMD         STOP          POWERSHELL,SHELL    20%(Pending)        
 RUST        RUNNING       RUST                12%(Running)        
