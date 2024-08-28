@@ -16,13 +16,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gunwoo8873&theme=tokyonight&show_icons=true" width="39%" />
 </a>
 
+
+| NAME | STATUS | TYPE | RANGUAGE | COMPLETE(%) | POSITION | REPOSITORY |
+|------|--------|------|----------|-------------|----------|------------|
+| CMD  | STOP | Learn | PowerShell, Shell | 20% [Pending] | - | - |
+| RUST | Running | Learn | Rust | 20% [Pending] | - | - |
+| TECIT MID-1 | PENDING | Project | Shell, Yaml, Yml | 90% [Success] | CI / CD | [TECHIT-midproject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
+| TECIT MID-2 | Wait | Project | - | 0% [Init] | - | - |
+| TECIT FINAL | Wait | Project | - | 0% [Init] | - | - |
+| CMD  | STOP | Learn | PowerShell, Shell | 20% [Pending] | - | - |
+
 ```markdown
-NAME        STATUS        RANGUAGE            COMPLETE(%)         POSITION        REPOSITORY
-CMD         STOP          POWERSHELL,SHELL    20%(Pending)        
-RUST        RUNNING       RUST                12%(Running)        
-MID-1       PENDING       DOCKER,K8S,SHELL    90%(Success)        CI / CD         [TECHIT-midproject-1]
-MID-2       STOP          DOCKER,K8S,SHELL    -(Pending)
-FINAL       STOP          DOCKER,K8S,SHELL    -(Pending)
+NAME        STATUS      TYPE           RANGUAGE            COMPLETE(%)         POSITION        REPOSITORY
+CMD         STOP        LEARN          POWERSHELL,SHELL    20%(Pending)        
+RUST        RUNNING     LEARN          RUST                12%(Running)        
+MID-1       PENDING               DOCKER,K8S,SHELL    90%(Success)        CI / CD         [TECHIT-midproject-1]
+MID-2       STOP                  DOCKER,K8S,SHELL    -(Pending)
+FINAL       STOP                  DOCKER,K8S,SHELL    -(Pending)
 ```
-[1. Mid-Project-N.1](https://github.com/gunwoo8873/TECHIT-midproject-1)  
 [Learn-Notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
