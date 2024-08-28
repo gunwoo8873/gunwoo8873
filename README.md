@@ -9,8 +9,12 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white"/></a>
 
-![](https://raw.githubusercontent.com/gunwoo8873/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/gunwoo8873/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoo8873&exclude_repo=gunwoo8873.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=gunwoo8873&theme=tokyonight&show_icons=true" width="39%" />
+</a>
 
 ```markdown
 NAME        STATUS        RANGUAGE            COMPLETE(%)         POSITION        REPOSITORY
