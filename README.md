@@ -14,10 +14,10 @@
 |------|--------|------|----------|-------------|----------|------------|
 | CMD  | STOP | Learn | PowerShell, Shell | 20% | - | [CMD](https://github.com/gunwoo8873/CMD.git) |
 | RUST | Running | Learn | Rust | 20% | - | [Rust-Learn](https://github.com/gunwoo8873/Rust-Leren.git) |
-| TECIT MID-1 | EXIT | Project | Shell, Yaml, Yml | 90% | CI / CD | [TECHIT-midproject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
+| TECHIT MID-1 | EXIT | Project | Shell, Yaml, Yml | 90% | CI / CD | [TECHIT-midproject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
 | Rust Web | Running | Project | Rust | 0% | - | - |
-| TECIT MID-2 | Wait | Project | - | 0% | - | - |
-| TECIT FINAL | Wait | Project | - | 0% | - | - |
+| TECHIT MID-2 | Wait | Project | - | 0% | - | - |
+| TECHIT FINAL | Wait | Project | - | 0% | - | - |
 
 # Github User Status
 <a href="s">
