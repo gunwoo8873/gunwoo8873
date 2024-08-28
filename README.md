@@ -19,19 +19,11 @@
 
 | NAME | STATUS | TYPE | RANGUAGE | COMPLETE(%) | POSITION | REPOSITORY |
 |------|--------|------|----------|-------------|----------|------------|
-| CMD  | STOP | Learn | PowerShell, Shell | 20% [Pending] | - | - |
-| RUST | Running | Learn | Rust | 20% [Pending] | - | - |
-| TECIT MID-1 | PENDING | Project | Shell, Yaml, Yml | 90% [Success] | CI / CD | [TECHIT-midproject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
+| CMD  | STOP | Learn | PowerShell, Shell | 20% [Pending] | - | [CMD](https://github.com/gunwoo8873/CMD.git) |
+| RUST | Running | Learn | Rust | 20% [Pending] | - | [Rust-Learn](https://github.com/gunwoo8873/Rust-Leren.git) |
+| TECIT MID-1 | STOP | Project | Shell, Yaml, Yml | 90% [Success] | CI / CD | [TECHIT-midproject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
+| Rust Web | Running | Project | Rust | 0% [Init] | - | - |
 | TECIT MID-2 | Wait | Project | - | 0% [Init] | - | - |
 | TECIT FINAL | Wait | Project | - | 0% [Init] | - | - |
-| CMD  | STOP | Learn | PowerShell, Shell | 20% [Pending] | - | - |
 
-```markdown
-NAME        STATUS      TYPE           RANGUAGE            COMPLETE(%)         POSITION        REPOSITORY
-CMD         STOP        LEARN          POWERSHELL,SHELL    20%(Pending)        
-RUST        RUNNING     LEARN          RUST                12%(Running)        
-MID-1       PENDING               DOCKER,K8S,SHELL    90%(Success)        CI / CD         [TECHIT-midproject-1]
-MID-2       STOP                  DOCKER,K8S,SHELL    -(Pending)
-FINAL       STOP                  DOCKER,K8S,SHELL    -(Pending)
-```
 [Learn-Notion](https://gunwoo8873.notion.site/Home-815249bf872b4cabb900895ad0dd31ff?pvs=4)
