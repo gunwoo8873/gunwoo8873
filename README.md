@@ -15,8 +15,7 @@
 | CMD  | STOP | Learn | PowerShell, Shell | 20% | - | [CMD](https://github.com/gunwoo8873/CMD.git) |
 | Rust | STOP | Learn | Rust | 45% | - | - |
 | TECHIT MID-1 | EXIT | Project | Shell, Yaml, Yml | 90% | CI / CD | [TECHIT-midproject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
-| Rust Web | Running | Project | Rust | 30% | - | [Rust Front Server](https://github.com/gunwoo8873/Rust-front.git) |
-| TECHIT MID-2 | Running | Project | - | 0% | - | - |
+| TECHIT MID-2 | Running | Project | Rust, Yaml, Yml | 5% | - | - |
 | TECHIT Final | STOP | Project | - | 0% | - | - |
 
 # Github User Status
