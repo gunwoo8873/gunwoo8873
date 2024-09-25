@@ -2,7 +2,7 @@
 
 # 🛠️ Skills
 <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat&logo=gnubash&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat&logo=bash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a></br>
 <img src="https://img.shields.io/badge/gitkraken-179287?style=flat&logo=gitkraken&logoColor=white"/></a>
