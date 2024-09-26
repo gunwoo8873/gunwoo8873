@@ -43,4 +43,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gunwoo8873&theme=tokyonight&show_icons=true" width="39%" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunwoo8873&theme=dracula)](https://github.com/gunwoo8873/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunwoo8873&theme=tokyo-night)](https://github.com/gunwoo8873/github-readme-activity-graph)
