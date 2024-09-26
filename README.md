@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TerraForm-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/></a>
 
 ### 🛠️ IDE`S and Tools
 <img src="https://img.shields.io/badge/VSCODE-326CE5?style=for-the-badge&logo=&logoColor=white"/></a>
