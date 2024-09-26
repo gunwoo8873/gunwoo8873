@@ -4,21 +4,22 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Shell Script-000000?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PowerShell-2496ED?style=for-the-badge&logo=&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 </br>
 ### ♾ CI / CD
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github Action-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</br>
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+</br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TerraForm-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/></a>
 
 ### 🛠️ IDE`S and Tools
-<img src="https://img.shields.io/badge/Gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/VISUAL STUDIO CODE-326CE5?style=for-the-badge&logo=&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VSCODE-326CE5?style=for-the-badge&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
+</br>
+<img src="https://img.shields.io/badge/Gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Cargo.io-000000?style=for-the-badge&logo=actix&logoColor=white"/></a>
 </br>
