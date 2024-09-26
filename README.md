@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Who%20am%20I&fontSize=90)
 
-### 📚 Language
+### 💻 Language
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Shell Script-000000?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PowerShell-2496ED?style=for-the-badge&logo=&logoColor=white"/></a>
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TerraForm-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/></a>
 
-### 💻 IDE`S and Tools
+### 🛠️ IDE`S and Tools
 <img src="https://img.shields.io/badge/Gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-326CE5?style=for-the-badge&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white"/></a>
 
 
-### 🛠️ Current Learn & Project
+### 🛠📚 Current Learn & Project
 | NAME | STATUS | TYPE | RANGUAGE | COMPLETE(%) | POSITION | REPOSITORY |
 |------|--------|------|----------|-------------|----------|------------|
 | CMD  | STOP | Learn | PowerShell, Shell | 20% | - | [CMD](https://github.com/gunwoo8873/CMD.git) |
