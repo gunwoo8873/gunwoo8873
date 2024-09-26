@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/PowerShell-2496ED?style=for-the-badge&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 </br>
-### ♾ CI / CD
+### ♾ DevOps
 <img src="https://img.shields.io/badge/Github Action-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
