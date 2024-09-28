@@ -34,8 +34,8 @@
 | Rust | STOP | Learn | Rust | 45% | - | - |
 | TECHIT Mini | EXIT | Project | HTML, CSS, JS, MySQL | 100% | - | [TECHIT-MiniProject](https://github.com/gunwoo8873/TECHIT-MiniProject.git) |
 | TECHIT MID-1 | EXIT | Project | Shell, Yaml, Yml | 100% | CI / CD | [TECHIT-MidProject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
-| TECHIT MID-2 | Running | Project | Rust, Yaml, Yml | 5% | - | [TECHIT-MidProject-2](https://github.com/gunwoo8873/TECHIT-Midproject-2.git) |
-| TECHIT Final | Wait | Project | - | 0% | - | [TECHIT-FinalProject](https://github.com/gunwoo8873/TECHIT-FinalProject.git) |
+| TECHIT MID-2 | Error | Project | Rust, Yaml, Yml | 5% | - | [TECHIT-MidProject-2](https://github.com/gunwoo8873/TECHIT-Midproject-2.git) |
+| TECHIT Final | Running | Project | - | 1% | - | [TECHIT-FinalProject](https://github.com/gunwoo8873/TECHIT-FinalProject.git) |
 
 ### Github User Status
 <a href="s">
