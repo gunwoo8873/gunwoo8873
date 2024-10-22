@@ -25,6 +25,12 @@
 <img src="https://img.shields.io/badge/TerraForm-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Cargo.io-000000?style=for-the-badge&logo=actix&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/></a>
+
+### Like
+<img src="https://img.shields.io/badge/F1-E10600?style=for-the-badge&logo=F1&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Red Bull-DB0A40?style=for-the-badge&logo=redbull&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/></a>
 
 ### 🛠📚 Current Learn & Project
 | NAME | STATUS | TYPE | RANGUAGE | COMPLETE(%) | POSITION | REPOSITORY |
