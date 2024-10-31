@@ -37,10 +37,10 @@
 |------|--------|------|----------|-------------|----------|------------|
 | CMD  | STOP | Learn | PowerShell, Shell | 20% | - | [CMD](https://github.com/gunwoo8873/CMD.git) |
 | Rust | STOP | Learn | Rust | 45% | - | - |
-| TECHIT Mini | EXIT | Project | HTML, CSS, JS, MySQL | 100% | - | [TECHIT-MiniProject](https://github.com/gunwoo8873/TECHIT-MiniProject.git) |
-| TECHIT MID-1 | EXIT | Project | Shell, Yaml, Yml | 100% | CI / CD | [TECHIT-MidProject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
-| TECHIT MID-2 | EXIT | Project | Rust, Yaml, Yml | 5% | - | - |
-| TECHIT Final | EXIT | Project | - | 1% | - | [TECHIT-FinalProject](https://github.com/gunwoo8873/TECHIT-FinalProject.git) |
+| TECHIT Mini | EXIT | Project | HTML, CSS, JS, MySQL | -% | - | [TECHIT-MiniProject](https://github.com/gunwoo8873/TECHIT-MiniProject.git) |
+| TECHIT MID-1 | EXIT | Project | Shell, Yaml, Yml | -% | CI / CD | [TECHIT-MidProject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
+| TECHIT MID-2 | EXIT | Project | Rust, Yaml, Yml | -% | - | - |
+| TECHIT Final | EXIT | Project | Rust, yml | -% | - | [TECHIT-FinalProject](https://github.com/gunwoo8873/TECHIT-FinalProject.git) |
 
 ### Github User Status
 <a href="s">
