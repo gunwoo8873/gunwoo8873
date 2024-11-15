@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Who%20am%20I&fontSize=90)
 
-### 💻 Language
+### 💻 Language & Script
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,rust)](https://skillicons.dev)
 
 ### ♾ DevOps
