@@ -1,27 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Who%20am%20I&fontSize=90)
 
 ### 💻 Language
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Shell Script-000000?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PowerShell-2496ED?style=for-the-badge&logo=&logoColor=white"/></a>
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,rust)](https://skillicons.dev)
 
 ### ♾ DevOps
-<img src="https://img.shields.io/badge/Github Action-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+[![My Skills](https://skillicons.dev/icons?i=linux,githubactions,docker,kubernetes)](https://skillicons.dev)
 
 ### 🛠️ IDE`S and Tools
-<img src="https://img.shields.io/badge/VSCODE-326CE5?style=for-the-badge&logo=&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea)](https://skillicons.dev)
+</br>
 <img src="https://img.shields.io/badge/Gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white"/></a>
 
 ### 📚 Learning
-<img src="https://img.shields.io/badge/TerraForm-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/></a>
+[![My Skills](https://skillicons.dev/icons?i=rust,terraform,gitlab)](https://skillicons.dev)
+</br>
 <img src="https://img.shields.io/badge/Argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Create.io-000000?style=for-the-badge&logo=actix&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 
 ### Like
 <img src="https://img.shields.io/badge/F1-E10600?style=for-the-badge&logo=F1&logoColor=white"/></a>
