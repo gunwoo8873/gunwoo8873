@@ -29,7 +29,7 @@
 | CMD  | Running | Project | PowerShell, Shell | 20% | - | [CMD](https://github.com/gunwoo8873/CMD.git) |
 | Rust | Running | Learn | Rust | 35% | - | [Rust](https://github.com/gunwoo8873/Rust-Learning.git) |
 | Powershell | Running | Learn | ps1 | 10% | - | [PS](https://github.com/gunwoo8873/PS-Learning.git) |
-| TECHIT Mini | EXIT | Project | HTML, CSS, JS, MySQL | -% | - | [TECHIT-MiniProject](https://github.com/gunwoo8873/TECHIT-MiniProject.git) |
+| TECHIT Mini | EXIT | Project | HTML, CSS, JS, MySQL | -% | - | - |
 | TECHIT MID-1 | EXIT | Project | Shell, Yaml, Yml | -% | CI / CD | [TECHIT-MidProject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
 | TECHIT MID-2 | EXIT | Project | Rust, Yaml, Yml | -% | - | - |
 | TECHIT Final | EXIT | Project | Rust, yml | -% | - | [TECHIT-FinalProject](https://github.com/gunwoo8873/TECHIT-FinalProject.git) |
