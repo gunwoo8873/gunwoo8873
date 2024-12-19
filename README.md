@@ -1,22 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Who%20am%20I&fontSize=90)
 
+### 💻 OS
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+
+### Community
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+
 ### 💻 Language & Script
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,rust,go,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,rust,go,cpp,cs,dotnet)](https://skillicons.dev)
 
 ### ♾ DevOps
 [![My Skills](https://skillicons.dev/icons?i=linux,githubactions,docker,kubernetes)](https://skillicons.dev)
 
 ### 🛠️ IDE`S and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,rider)](https://skillicons.dev)
 </br>
-<img src="https://img.shields.io/badge/Gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white"/></a>
 
 ### 📚 Learning
-[![My Skills](https://skillicons.dev/icons?i=rust,go,cpp,cs,terraform,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,cpp,cs,dotnet,terraform)](https://skillicons.dev)
 </br>
-<img src="https://img.shields.io/badge/Argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Create.io-000000?style=for-the-badge&logo=actix&logoColor=white"/></a>
 
 ### Like
 <img src="https://img.shields.io/badge/F1-E10600?style=for-the-badge&logo=F1&logoColor=white"/></a>
