@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Who%20am%20I&fontSize=90)
 
 ### 💻 Language & Script
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,rust,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,rust,go,cpp,cs)](https://skillicons.dev)
 
 ### ♾ DevOps
 [![My Skills](https://skillicons.dev/icons?i=linux,githubactions,docker,kubernetes)](https://skillicons.dev)
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white"/></a>
 
 ### 📚 Learning
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,terraform,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,cpp,cs,terraform,gitlab)](https://skillicons.dev)
 </br>
 <img src="https://img.shields.io/badge/Argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Create.io-000000?style=for-the-badge&logo=actix&logoColor=white"/></a>
