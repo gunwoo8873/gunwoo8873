@@ -16,10 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,rider)](https://skillicons.dev)
 </br>
 
-### 📚 Learning
-[![My Skills](https://skillicons.dev/icons?i=rust,go,cpp,cs,dotnet,terraform)](https://skillicons.dev)
-</br>
-
 ### Like
 <img src="https://img.shields.io/badge/F1-E10600?style=for-the-badge&logo=F1&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Red Bull-DB0A40?style=for-the-badge&logo=redbull&logoColor=white"/></a>
