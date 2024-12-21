@@ -22,14 +22,15 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/></a>
 
 ### 🛠📚 Current Learn & Project
-| NAME | STATUS | TYPE | RANGUAGE | COMPLETE(%) | POSITION | REPOSITORY |
-|------|--------|------|----------|-------------|----------|------------|
+| NAME | STATUS | TYPE | RANGUAGE | POSITION | REPOSITORY |
+|------|--------|------|----------|:----------:|------------|
 | CMD  | Running | Project | PowerShell, Shell | 20% | - | [CMD](https://github.com/gunwoo8873/CMD.git) |
 | Learning | Running | Learn | Rust, PowerShell, C++, Shell, EN | - | - | [Learning](https://github.com/gunwoo8873/Learning.git) |
-| TECHIT Mini | EXIT | Project | HTML, CSS, JS, MySQL | -% | - | - |
-| TECHIT MID-1 | EXIT | Project | Shell, Yaml, Yml | -% | CI / CD | [TECHIT-MidProject-1](https://github.com/gunwoo8873/TECHIT-midproject-1) |
-| TECHIT MID-2 | EXIT | Project | Rust, Yaml, Yml | -% | - | - |
-| TECHIT Final | EXIT | Project | Rust, yml | -% | - | [TECHIT-FinalProject](https://github.com/gunwoo8873/TECHIT-FinalProject.git) |
+| TECHIT Mini | EXIT | Project | HTML, CSS, JS, MySQL|  |  |
+| TECHIT MID-1 | EXIT | Project | Shell, Yaml, Yml | CI / CD |  |
+| TECHIT MID-2 | EXIT | Project | Rust, Yaml, Yml| CI / CD |  |
+| TECHIT Final | EXIT | Project | Rust, yml | CI / CD | [TECHIT-FinalProject](https://github.com/gunwoo8873/TECHIT-FinalProject.git) |
+> TECHIT Projects moved to one repository
 
 ### Github User Status
 <a href="s">
