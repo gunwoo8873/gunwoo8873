@@ -24,8 +24,8 @@
 ### 🛠📚 Current Learn & Project
 | NAME | STATUS | TYPE | RANGUAGE | POSITION | REPOSITORY |
 |------|--------|------|----------|:----------:|------------|
-| CMD  | Running | Project | PowerShell, Shell | 20% | - | [CMD](https://github.com/gunwoo8873/CMD.git) |
-| Learning | Running | Learn | Rust, PowerShell, C++, Shell, EN | - | - | [Learning](https://github.com/gunwoo8873/Learning.git) |
+| CMD  | Running | Project | PowerShell, Shell | Solo | [CMD](https://github.com/gunwoo8873/CMD.git) |
+| Learning | Running | Learn | Rust, PowerShell, C++, Shell, EN | Null | [Learning](https://github.com/gunwoo8873/Learning.git) |
 | TECHIT Mini | EXIT | Project | HTML, CSS, JS, MySQL|  |  |
 | TECHIT MID-1 | EXIT | Project | Shell, Yaml, Yml | CI / CD |  |
 | TECHIT MID-2 | EXIT | Project | Rust, Yaml, Yml| CI / CD |  |
