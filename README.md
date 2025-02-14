@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
 ### 💻 Language & Script
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,rust,go,cpp,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,rust,go,cs,dotnet)](https://skillicons.dev)
 
 ### ♾ DevOps
 [![My Skills](https://skillicons.dev/icons?i=linux,githubactions,docker,kubernetes)](https://skillicons.dev)
