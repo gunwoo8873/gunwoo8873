@@ -32,12 +32,17 @@
 | TECHIT Final | EXIT | Project | Rust, yml | CI / CD | [TECHIT-FinalProject](https://github.com/gunwoo8873/TECHIT-FinalProject.git) |
 > TECHIT Projects moved to one repository
 
+
 ### Github User Status
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoo8873&exclude_repo=gunwoo8873.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=gunwoo8873&theme=tokyonight&show_icons=true" width="39%" />
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{gunwoo8873}" width="100%" height="50%"/>
 </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunwoo8873&theme=tokyo-night)](https://github.com/gunwoo8873/github-readme-activity-graph)
