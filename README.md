@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Who%20am%20I&fontSize=90)
 
 ### 💻 OS
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
 ### Community
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,rust,go,cs,dotnet)](https://skillicons.dev)
 
 ### ♾ DevOps
-[![My Skills](https://skillicons.dev/icons?i=linux,githubactions,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,githubactions,docker,kubernetes,aws)](https://skillicons.dev)
 
 ### 🛠️ IDE`S and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,rider)](https://skillicons.dev)
