@@ -41,8 +41,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gunwoo8873&theme=tokyonight&show_icons=true" width="39%" />
 </a>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{gunwoo8873}" width="100%" height="50%"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gunwoo8873&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/gunwoo8873"
+  width="100%"
+  height="50%"
+/>
 </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunwoo8873&theme=tokyo-night)](https://github.com/gunwoo8873/github-readme-activity-graph)
