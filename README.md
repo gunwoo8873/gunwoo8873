@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoo8873&exclude_repo=gunwoo8873.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunwoo8873&theme=tokyonight&show_icons=true" width="39%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gunwoo8873&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gunwoo8873&utm_content=farm">
