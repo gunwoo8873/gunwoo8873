@@ -24,12 +24,10 @@
 ### 🛠📚 Current Learn & Project
 | NAME | STATUS | TYPE | RANGUAGE | POSITION | REPOSITORY |
 |------|--------|------|----------|:----------:|------------|
-| CMD  | Running | Project | PowerShell, Shell | Solo | [CMD](https://github.com/gunwoo8873/CMD.git) |
 | Learning | Running | Learn | Rust, PowerShell, C++, Shell, EN | Null | [Learning](https://github.com/gunwoo8873/Learning.git) |
-| TECHIT Mini | EXIT | Project | HTML, CSS, JS, MySQL|  |  |
-| TECHIT MID-1 | EXIT | Project | Shell, Yaml, Yml | CI / CD |  |
-| TECHIT MID-2 | EXIT | Project | Rust, Yaml, Yml| CI / CD |  |
-| TECHIT Final | EXIT | Project | Rust, yml | CI / CD | [TECHIT-FinalProject](https://github.com/gunwoo8873/TECHIT-FinalProject.git) |
+| CMD  | Pending | Project | PowerShell, Shell | Solo | [Command Line Interface](https://github.com/gunwoo8873/CMD.git) |
+| LikeLion Bootcamp | Exit | Project | Rust, HTML, CSS, JS, Shell | CI / CD | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP) |
+| ShyningLion Intern | Running | Project | Rust, AWS, Python | Null | [Discord-Bot](https://github.com/gunwoo8873/Rust-DiscordBot), [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
 > TECHIT Projects moved to one repository
 
 
