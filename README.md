@@ -28,8 +28,6 @@
 | CMD  | Stop | Project | [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev) | - | [Command Line Interface](https://github.com/gunwoo8873/CMD.git) |
 | LikeLion Bootcamp | Exit | Project | [![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)](https://skillicons.dev) | CI / CD | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP) |
 | ShyningLion Intern | Running | Project | [![My Skills](https://skillicons.dev/icons?i=rust,python)](https://skillicons.dev) | - | [Discord-Bot](https://github.com/gunwoo8873/Rust-DiscordBot), [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
-> TECHIT Projects moved to one repository
-
 
 ### Github User Status
 <a href="s">
