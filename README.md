@@ -30,6 +30,8 @@
 | ShiningLion Intern | Running | Project | [![My Skills](https://skillicons.dev/icons?i=rust,python)](https://skillicons.dev) | - | [Discord-Bot](https://github.com/gunwoo8873/Rust-DiscordBot), [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
 
 ### Github User Status
+[![trophy](https://github-profile-trophy.vercel.app/?username=gunwoo8873&theme=discord)](https://github.com/gunwoo8873/github-profile-trophy)
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoo8873&exclude_repo=gunwoo8873.github.io&layout=compact&theme=tokyonight" />
 </a>
@@ -44,6 +46,5 @@
   height="50%"
 />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gunwoo8873&theme=discord)](https://github.com/gunwoo8873/github-profile-trophy)
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunwoo8873&theme=tokyo-night)](https://github.com/gunwoo8873/github-readme-activity-graph)-->
