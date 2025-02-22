@@ -44,5 +44,6 @@
   height="50%"
 />
 </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=gunwoo8873&theme=discord)](https://github.com/gunwoo8873/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunwoo8873&theme=tokyo-night)](https://github.com/gunwoo8873/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunwoo8873&theme=tokyo-night)](https://github.com/gunwoo8873/github-readme-activity-graph)-->
