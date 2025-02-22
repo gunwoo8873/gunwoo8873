@@ -16,11 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,rider)](https://skillicons.dev)
 </br>
 
-### Like
-<img src="https://img.shields.io/badge/F1-E10600?style=for-the-badge&logo=F1&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Red Bull-DB0A40?style=for-the-badge&logo=redbull&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/></a>
-
 ### 🛠📚 Current Learn & Project
 | NAME | STATUS | TYPE | RANGUAGE | POSITION | REPOSITORY |
 |------|--------|------|----------|:----------:|------------|
