@@ -23,7 +23,7 @@
 | Installing-script  | Running | Other Project | [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev) | - | [Command Line Interface](https://github.com/gunwoo8873/CMD.git) |
 | LikeLion Bootcamp | Exit | Main Project | [![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)](https://skillicons.dev) | CI / CD | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP) |
 | ShiningLion Intern | Exit | Main Project | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | App | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
-|  | Running | Other Project | [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) | App | [Discord-Bot](https://github.com/gunwoo8873/Rust-DiscordBot)|
+| - | Running | Other Project | [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) | App | [Discord-Bot](https://github.com/gunwoo8873/Rust-DiscordBot)|
 
 ### Github User Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=gunwoo8873&theme=discord)](https://github.com/gunwoo8873/github-profile-trophy)
