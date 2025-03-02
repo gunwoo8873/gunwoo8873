@@ -18,7 +18,7 @@
 
 ### 🛠📚 Current Learn & Project
 | NAME | STATUS | TYPE | RANGUAGE | POSITION | REPOSITORY |
-|------|--------|------|----------|:----------:|------------|
+|------|:--------:|:------:|----------|:----------:|------------|
 | Learning | Running | Learn | [![My Skills](https://skillicons.dev/icons?i=go,rust,bash,powershell)](https://skillicons.dev) | - | [Learning](https://github.com/gunwoo8873/Learning.git) |
 | Installing-script  | Running | Other Project | [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev) | - | [Command Line Interface](https://github.com/gunwoo8873/CMD.git) |
 | LikeLion Bootcamp | Exit | Main Project | [![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)](https://skillicons.dev) | CI / CD | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP) |
