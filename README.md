@@ -22,9 +22,9 @@
 | Learning | Running | Learn | [![My Skills](https://skillicons.dev/icons?i=go,rust,bash,powershell)](https://skillicons.dev) | - | [Learning](https://github.com/gunwoo8873/Learning.git) |
 | Install-Script | Running | Other Project | [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev) | - | [Install-Script](https://github.com/gunwoo8873/Install-script) |
 | LikeLion Bootcamp | Exit | Main Project | [![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)](https://skillicons.dev) | CI / CD | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP) |
-| ShiningLion Intern | Exit | Main Project | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | App | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
+| ShiningLion Intern | Exit | Main Project | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | Supporter | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
 | - | Running | Other Project | [![My Skills](https://skillicons.dev/icons?i=rust,powershell)](https://skillicons.dev) | App | [Discord-Bot-Rust](https://github.com/gunwoo8873/Rust-DiscordBot)|
-| - | Stop | Other Project | [![My Skills](https://skillicons.dev/icons?i=net,cs)](https://skillicons.dev) | App | [Dsicord-Bot-NET](https://github.com/gunwoo8873/NET-DiscordBot)
+| - | Stop | Other Project | [![My Skills](https://skillicons.dev/icons?i=net,cs)](https://skillicons.dev) | App | [Dsicord-Bot-NET](https://github.com/gunwoo8873/NET-DiscordBot)|
 
 ### Github User Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=gunwoo8873&theme=discord)](https://github.com/gunwoo8873/github-profile-trophy)
