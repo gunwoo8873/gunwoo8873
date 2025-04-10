@@ -17,34 +17,26 @@
 </br>
 
 ### 🛠📚 Current Learn & Project
-| NAME               | STATUS  |     TYPE      | RANGUAGE                                                                                       | POSITION  | REPOSITORY                                                        |
-| ------------------ | :-----: | :-----------: | ---------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------- |
-| Learning           | Running |     Learn     | [![My Skills](https://skillicons.dev/icons?i=go,rust,bash,powershell)](https://skillicons.dev) |     -     | [Learning](https://github.com/gunwoo8873/Learning.git)            |
-| Install-Script     |  Stop   | Other Project | [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev)         |     -     | [Install-Script](https://github.com/gunwoo8873/Install-script)    |
-| Go-Server          | Running | Other Project | [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)                      |     -     | [Go-Server](https://github.com/gunwoo8873/Go-Server)              |
-| LikeLion Bootcamp  |  Exit   | Main Project  | [![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)](https://skillicons.dev)   |  CI / CD  | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP)           |
-| ShiningLion Intern |  Exit   | Main Project  | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)                  | Supporter | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
-| -                  |  Stop   | Other Project | [![My Skills](https://skillicons.dev/icons?i=rust,powershell)](https://skillicons.dev)         |    App    | [Discord-Bot-Rust](https://github.com/gunwoo8873/Rust-DiscordBot) |
-| -                  |  Stop   | Other Project | [![My Skills](https://skillicons.dev/icons?i=net,cs)](https://skillicons.dev)                  |    App    | [Dsicord-Bot-NET](https://github.com/gunwoo8873/NET-DiscordBot)   |
+| NAME               | STATUS  |     TYPE      | RANGUAGE                                                                                           | POSITION  | REPOSITORY                                                        |
+| ------------------ | :-----: | :-----------: | -------------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------- |
+| Learning           | Running |     Learn     | [![My Skills](https://skillicons.dev/icons?i=go,cs,bash,powershell,linux)](https://skillicons.dev) |     -     | [Learn-Note](https://github.com/gunwoo8873/Learning.git)          |
+| Go-Server          | Pending | Other Project | [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)                          |     -     | [Go-Server](https://github.com/gunwoo8873/Go-Server)              |
+| Go-Terminal        | Pending | Other Project | [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)                          |     -     | [Go-TerminalUI](https://github.com/gunwoo8873/Go-TerminalUI)      |
+| LikeLion Bootcamp  |  Exit   | Main Project  | [![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)](https://skillicons.dev)       |  CI / CD  | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP)           |
+| ShiningLion Intern |  Exit   | Main Project  | [![My Skills](https://skillicons.dev/icons?i=python,rust)](https://skillicons.dev)                 | Supporter | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
 
 ### Github User Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=gunwoo8873&theme=discord)](https://github.com/gunwoo8873/github-profile-trophy)
 
-<div>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoo8873&exclude_repo=gunwoo8873.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunwoo8873&theme=tokyonight&show_icons=true" />
-</a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![PITLANE's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoo8873&show_icons=true&theme=ambient_gradient)
 
 <div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gunwoo8873&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/gunwoo8873"
   width="100%"
-  height="50%"
+  height="30%"
 />
 </a>
 </div>
