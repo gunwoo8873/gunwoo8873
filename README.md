@@ -20,8 +20,6 @@
 | NAME               | STATUS  |     TYPE      | RANGUAGE                                                                                           | POSITION  | REPOSITORY                                                        |
 | ------------------ | :-----: | :-----------: | -------------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------- |
 | Learning           | Running |     Learn     | [![My Skills](https://skillicons.dev/icons?i=go,cs,bash,powershell,linux)](https://skillicons.dev) |     -     | [Learn-Note](https://github.com/gunwoo8873/Learning.git)          |
-| Go-Server          | Pending | Other Project | [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)                          |     -     | [Go-Server](https://github.com/gunwoo8873/Go-Server)              |
-| Go-Terminal        | Pending | Other Project | [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)                          |     -     | [Go-TerminalUI](https://github.com/gunwoo8873/Go-TerminalUI)      |
 | LikeLion Bootcamp  |  Exit   | Main Project  | [![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)](https://skillicons.dev)       |  CI / CD  | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP)           |
 | ShiningLion Intern |  Exit   | Main Project  | [![My Skills](https://skillicons.dev/icons?i=python,rust)](https://skillicons.dev)                 | Supporter | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
 
