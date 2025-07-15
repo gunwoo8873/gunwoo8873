@@ -1,27 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Who%20am%20I&fontSize=90)
 
-### 💻 OS
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+### 💻​ OS
+![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)
 
-### Community
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+### ♾️​ DevOps
+![My Skills](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,aws)
 
-### 💻 Language & Script
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,rust,go,cs,dotnet)](https://skillicons.dev)
+### 🛠️ Using IDE Tools
+![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,rider)
 
-### ♾ DevOps
-[![My Skills](https://skillicons.dev/icons?i=linux,githubactions,docker,kubernetes,aws)](https://skillicons.dev)
+### 📚​ Learning
+![My Skills](https://skillicons.dev/icons?i=go,dotnet,blender)
 
-### 🛠️ IDE`S and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,rider)](https://skillicons.dev)
-</br>
+### Contect
+![My Skills](https://skillicons.dev/icons?i=discord)
 
-### 🛠📚 Current Learn & Project
+### Project Table
 | NAME               | STATUS  |     TYPE      | RANGUAGE                                                                                           | POSITION  | REPOSITORY                                                        |
 | ------------------ | :-----: | :-----------: | -------------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------- |
-| Learning           | Running |     Learn     | [![My Skills](https://skillicons.dev/icons?i=go,cs,bash,powershell,linux)](https://skillicons.dev) |     -     | [Learn-Note](https://github.com/gunwoo8873/Learning.git)          |
-| LikeLion Bootcamp  |  Exit   | Main Project  | [![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)](https://skillicons.dev)       |  CI / CD  | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP)           |
-| ShiningLion Intern |  Exit   | Main Project  | [![My Skills](https://skillicons.dev/icons?i=python,rust)](https://skillicons.dev)                 | Supporter | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
+| Learning           | Running |     Learn     | ![My Skills](https://skillicons.dev/icons?i=go,cs,bash,powershell)                                 |     -     | [Learn-Note](https://github.com/gunwoo8873/Learning.git)          |
+| LikeLion Bootcamp  |  Exit   | Main Project  | ![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)                                 |  CI / CD  | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP)           |
+| ShiningLion Intern |  Exit   | Main Project  | ![My Skills](https://skillicons.dev/icons?i=python,rust)                                           | Supporter | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
 
 ### Github User Status
 [![trophy](https://github-profile-trophy.vercel.app/?username=gunwoo8873&theme=discord)](https://github.com/gunwoo8873/github-profile-trophy)
