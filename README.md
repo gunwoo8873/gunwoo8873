@@ -16,7 +16,7 @@
 ![My Skills](https://skillicons.dev/icons?i=discord)
 
 ### Project Table
-| NAME               | STATUS  |     TYPE      | RANGUAGE                                                                                           | POSITION  | REPOSITORY                                                        |
+| NAME               | STATUS  |     TYPE      | LANGUAGE                                                                                           | POSITION  | REPOSITORY                                                        |
 | ------------------ | :-----: | :-----------: | -------------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------- |
 | Learning           | Running |     Learn     | ![My Skills](https://skillicons.dev/icons?i=go,cs,bash,powershell)                                 |     -     | [Learn-Note](https://github.com/gunwoo8873/Learning.git)          |
 | LikeLion Bootcamp  |  Exit   | Main Project  | ![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)                                 |  CI / CD  | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP)           |
