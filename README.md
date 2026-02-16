@@ -9,8 +9,8 @@
 ### 🛠️ Using IDE Tools
 ![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,rider)
 
-### 📚​ Learning
-![My Skills](https://skillicons.dev/icons?i=go,dotnet,blender)
+### 📚​ Language
+![My Skills](https://skillicons.dev/icons?i=rust,go,dotnet)
 
 ### Contect
 ![My Skills](https://skillicons.dev/icons?i=discord)
