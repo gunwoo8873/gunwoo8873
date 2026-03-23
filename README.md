@@ -10,7 +10,7 @@
 ![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,rider)
 
 ### 📚​ Language
-![My Skills](https://skillicons.dev/icons?i=rust,dotnet)
+![My Skills](https://skillicons.dev/icons?i=rust,dotnet,go)
 
 ### Contect
 ![My Skills](https://skillicons.dev/icons?i=discord)
