@@ -18,7 +18,7 @@
 ### Project Table
 | NAME               | STATUS  |     TYPE      | LANGUAGE                                                                                           | POSITION  | REPOSITORY                                                        |
 | ------------------ | :-----: | :-----------: | -------------------------------------------------------------------------------------------------- | :-------: | ----------------------------------------------------------------- |
-| TourDot | Running | Learn | ![My Skills](https://skillicons.dev/icons?i=dotnet) |
+| TourLearn | Running | Learn | ![My Skills](https://skillicons.dev/icons?i=dotnet,github) |
 | DotBot             | Running |   Project     | ![My Skills](https://skillicons.dev/icons?i=dotnet)                                                    |     -     |                                                                   |
 | LikeLion Bootcamp  |  Exit   | Main Project  | ![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash)                                 |  CI / CD  | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP)           |
 | ShiningLion Intern |  Exit   | Main Project  | ![My Skills](https://skillicons.dev/icons?i=python,rust)                                           | Supporter | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
