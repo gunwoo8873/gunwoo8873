@@ -7,7 +7,7 @@
 ![My Skills](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,aws)
 
 ### 🛠️ Using IDE Tools
-![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,rider)
+![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio)
 
 ### 📚​ Language
 ![My Skills](https://skillicons.dev/icons?i=rust,dotnet,go)
