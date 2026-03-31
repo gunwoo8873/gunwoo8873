@@ -26,7 +26,7 @@
 <div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gunwoo8873&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/gunwoo8873"
+  src="https://render.gitanimals.org/farms/geonwoo8873"
   width="100%"
   height="30%"
 />
