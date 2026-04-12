@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Who%20am%20I&fontSize=90)
-
 ### 💻​ OS
 
 ![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)
@@ -22,23 +20,23 @@
 
 ## Have Electronic equipment
 
-* NoteBook
+* **NoteBook**
   * **OS**
-    * Windows 11 Pro
+    * Windows 11 Pro [Active]
   * **CPU**
-    * AMD Razen 6800H [8C, 16S] [Min 2.2GHz, Max 2.4GHz]
+    * AMD Razen 7 6800H [8C, 16S] [Min 2.2GHz, Max 2.4GHz]
   * **RAM**
     * Micron DDR5 RAM [32GB, 5600GHz]
   * **Graphic**
     * RTX 3050TI Graphic
   * **Storage**
-    * Intel 512GB
+    * Intel M.2 512GB
   * **Mother Board**
     * ASUS FA507RE
 
 * **DeskTop**
   * **OS**
-    * Windows 11 Pro
+    * Windows 11 Pro [Active]
   * **CPU**
     * AMD Razen 7 9700x [8C, 16S] [Min 3.2GHz, Max 3.8GHz]
   * **RAM**
@@ -46,7 +44,7 @@
   * **Graphic**
     * None
   * **Storage**
-    * SKHynix 1TB NM.2
+    * SK Hynix 1TB M.2
   * **Mother Board**
     * ASUS TUF GAMING X870-PRO WIFI7 W NEO
 
