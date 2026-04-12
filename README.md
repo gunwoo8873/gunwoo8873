@@ -38,7 +38,7 @@
   * **OS**
     * Windows 11 Pro [Active]
   * **CPU**
-    * AMD Razen 7 9700x [8C, 16S] [Min 4.8GHz, Max 5.5GHz]
+    * AMD Razen 7 9700x [8C, 16S] [Min 3.8GHz, Max 5.5GHz]
   * **RAM**
     * Micron DDR5 Pro RAM [32GB, 5600GHz]
   * **Graphic**
