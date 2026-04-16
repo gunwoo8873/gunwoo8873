@@ -49,6 +49,11 @@
     * ASUS TUF GAMING X870-PRO WIFI7 W NEO
 
 
+## Carrea
+
+* **Coupang Fulfillment Services** (`2025. 04. 22 ~ 2026. 04. 21`)
+  *  In Bound / Qulity Control [QC]
+
 ## Project Table
 
 | NAME               | STATUS  |     TYPE     | LANGUAGE                                                           | POSITION  | REPOSITORY                                                        |
