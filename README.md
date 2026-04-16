@@ -2,25 +2,25 @@
 
 ![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)
 
-### ♾️​ DevOps
+### ♾️​ DEVOPS
 
 ![My Skills](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,aws)
 
-### 🛠️ Using IDE Tools
+### 🛠️ USING TOOLS
 
 ![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio)
 
-### 📚​ Language
+### 📚​ LANGUAGE
 
 ![My Skills](https://skillicons.dev/icons?i=rust,dotnet,go)
 
-### Contect
+### CONTECT
 
 ![My Skills](https://skillicons.dev/icons?i=discord)
 
-## Have Electronic equipment
+## HAVE ELECTRONIC EQUIPMENT
 
-* **NoteBook**
+* **NOTEBOOK**
   * **OS**
     * Windows 11 Pro [Active]
   * **CPU**
@@ -34,7 +34,7 @@
   * **Mother Board**
     * ASUS FA507RE
 
-* **DeskTop**
+* **DESKTOP**
   * **OS**
     * Windows 11 Pro [Active]
   * **CPU**
@@ -54,7 +54,7 @@
 * **Coupang Fulfillment Services** (`2025. 04. 22 ~ 2026. 04. 21`)
   *  In Bound / Qulity Control [QC]
 
-## Project Table
+## PROJECT TABLE
 
 | NAME               | STATUS  |     TYPE     | LANGUAGE                                                           | POSITION  | REPOSITORY                                                        |
 | ------------------ | :-----: | :----------: | ------------------------------------------------------------------ | :-------: | ----------------------------------------------------------------- |
