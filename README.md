@@ -56,7 +56,8 @@
 
 ## Credentials
 * Getting
-  <img width="239" height="163" alt="image" src="https://github.com/user-attachments/assets/5c1a30c1-07b7-4fc9-beb8-6c4a60de000f" />
+  <img width="348" height="349" alt="image" src="https://github.com/user-attachments/assets/79bcf24f-a35a-4a2b-9a27-b1ac55f48779" />
+
 
 
 
