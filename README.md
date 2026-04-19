@@ -14,7 +14,7 @@
   * **OS**
     * Windows 11 Pro [Active]
   * **CPU**
-    * AMD Razen 7 6800H [8C, 16S] [Min 2.2GHz, Max 2.4GHz]
+    * AMD Razen 7 6800H [8C, 16T] [Min 2.2GHz, Max 2.4GHz]
   * **RAM**
     * Micron DDR5 RAM [32GB, 5600GHz]
   * **Graphic**
@@ -28,7 +28,7 @@
   * **OS**
     * Windows 11 Pro [Active]
   * **CPU**
-    * AMD Razen 7 9700x [8C, 16S] [Min 3.8GHz, Max 5.5GHz]
+    * AMD Razen 7 9700x [8C, 16T] [Min 3.8GHz, Max 5.5GHz]
   * **RAM**
     * Micron DDR5 Pro RAM [32GB, 5600GHz]
   * **Graphic**
