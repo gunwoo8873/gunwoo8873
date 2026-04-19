@@ -54,6 +54,12 @@
 * **Coupang Fulfillment Services** (`2025. 04. 22 ~ 2026. 04. 21`)
   *  In Bound / Qulity Control [QC]
 
+## Credentials
+* Getting
+  <img width="239" height="163" alt="image" src="https://github.com/user-attachments/assets/5c1a30c1-07b7-4fc9-beb8-6c4a60de000f" />
+
+
+
 ## PROJECT TABLE
 
 | NAME               | STATUS  |     TYPE     | LANGUAGE                                                           | POSITION  | REPOSITORY                                                        |
