@@ -1,7 +1,10 @@
 ## CAREER
 
 * **Coupang Fulfillment Services** (`2025. 04. 22 ~ 2026. 04. 21`)
-  *  In Bound / Qulity Control [QC]
+  * In Bound / Qulity Control [QC]
+ 
+*  **Shining Lion** (`2025. 02 ~ 2025. 02`)
+  * Intern / DevOps
 
 ## CREDENTIALS
 
