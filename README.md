@@ -1,22 +1,12 @@
-### 💻​ OS
+## CAREER
 
-![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)
+* **Coupang Fulfillment Services** (`2025. 04. 22 ~ 2026. 04. 21`)
+  *  In Bound / Qulity Control [QC]
 
-### ♾️​ DEVOPS
+## CREDENTIALS
 
-![My Skills](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,aws)
-
-### 🛠️ USING TOOLS
-
-![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio)
-
-### 📚​ LANGUAGE
-
-![My Skills](https://skillicons.dev/icons?i=rust,dotnet,go)
-
-### CONTECT
-
-![My Skills](https://skillicons.dev/icons?i=discord)
+* Getting
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/79bcf24f-a35a-4a2b-9a27-b1ac55f48779" />
 
 ## HAVE ELECTRONIC EQUIPMENT
 
@@ -49,16 +39,25 @@
     * ASUS TUF GAMING X870-PRO WIFI7 W NEO
 
 
-## CAREER
+### 💻​ OS
 
-* **Coupang Fulfillment Services** (`2025. 04. 22 ~ 2026. 04. 21`)
-  *  In Bound / Qulity Control [QC]
+![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)
 
-## Credentials
-* Getting
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/79bcf24f-a35a-4a2b-9a27-b1ac55f48779" />
+### ♾️​ DEVOPS
 
+![My Skills](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,aws)
 
+### 🛠️ USING TOOLS
+
+![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio)
+
+### 📚​ LANGUAGE
+
+![My Skills](https://skillicons.dev/icons?i=rust,dotnet,go)
+
+### CONTECT
+
+![My Skills](https://skillicons.dev/icons?i=discord)
 
 
 ## PROJECT TABLE
