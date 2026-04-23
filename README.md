@@ -35,7 +35,7 @@
   * **RAM**
     * Micron DDR5 Pro RAM [32GB, 5600GHz]
   * **Graphic**
-    * ASUS PRIME RTX 5070 WHITE OC D7 [12GB] 
+    * ASUS PRIME Radeon RX 9070XT OC D6 [16GB]
   * **Storage**
     * SK Hynix 1TB M.2
   * **Mother Board**
