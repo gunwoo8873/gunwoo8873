@@ -23,7 +23,7 @@
   * **Graphic**
     * RTX 3050TI Graphic
   * **Storage**
-    * Intel M.2 512GB
+    * Intel M.2 [512GB]
   * **Mother Board**
     * ASUS FA507RE
 
@@ -37,7 +37,7 @@
   * **Graphic**
     * ASUS PRIME Radeon RX 9070XT OC D6 [16GB]
   * **Storage**
-    * SK Hynix 1TB M.2
+    * SK Hynix M.2 [1TB]
   * **Mother Board**
     * ASUS TUF GAMING X870-PRO WIFI7 W NEO
 
