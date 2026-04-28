@@ -69,8 +69,8 @@
 | ----------------- | :-----: | :----------: | ------------------------------------------------------------------ | :------: | ----------------------------------------------------------------- |
 | TourLearn         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=dotnet,github,go,rust) |    -     | [TourLearn](https://github.com/gunwoo8873/TourLearn)              |
 | DotBot            | Running |   Project    | ![My Skills](https://skillicons.dev/icons?i=dotnet,go,rust)        |    -     | [DotBot](https://github.com/gunwoo8873/DotBot)                    |
-| Bank Cloud        |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash) |  DEVOPS  | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP)           |
-| AWS Bedrock Agent |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=python,rust)           |  DEVOPS  | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
+| Bank Cloud        |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,bash) |  DevOps  | [Bank](https://github.com/gunwoo8873/LIKELION-BOOTCAMP)           |
+| AWS Bedrock Agent |  Exit   | Main Project | ![My Skills](https://skillicons.dev/icons?i=python,rust)           |  DevOps  | [Bedrock-agent](https://github.com/Byun-Sung-Ho/appCodeForRocket) |
 
 <div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gunwoo8873&utm_content=farm">
