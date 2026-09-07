@@ -9,8 +9,6 @@
 
 I have currently obtained GitHub Foundation and Admin credentials and am continuously learning cloud infrastructure technologies with the goal of obtaining AWS and Azure SAA/AZ-400 certifications. I am interested in building CI/CD pipelines using GitHub Actions and primarily use Go and C#.
 
----
-
 ## CAREER
 
 #### **Coupang Fulfillment Services** (`2025-04-22 ~ 2026-04-21`)
