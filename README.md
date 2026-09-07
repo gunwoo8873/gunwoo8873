@@ -54,13 +54,12 @@ I have currently obtained GitHub Foundation and Admin credentials and am continu
 
 ![My Skills](https://skillicons.dev/icons?i=go,dotnet)
 
-
 ## PROJECT TABLE
 
 | NAME              | STATUS  |     TYPE     | SKILL STACKS                                                           | POSITION | REPOSITORY                                                        |
 | ----------------- | :-----: | :----------: | ------------------------------------------------------------------ | :------: | ----------------------------------------------------------------- |
 | Tour Learn Collection         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=github,go,net,mysql) |    -     | [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)             |
-| Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | DevOps[`CI/CD`] | [likelion-bootcamp-project](https://github.com/ikelion-bootcamp-project) |
+| Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | DevOps[`CI/CD`] | [likelion-bootcamp-project](https://github.com/geonwoo8873/likelion-bootcamp-project) |
 | Rust Discord Bot | Exit | Personal Project | ![My Skills](https://skillicons.dev/icons?i=rust,bash,docker,github) | - | [Rust-DiscordBot](https://github.com/geonwoo8873/Rust-DiscordBot) |
 | Smart Waste Container | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=c) | Dev[`Leader`] | [smart-waste-container](https://github.com/geonwoo8873/smart-waste-container) |
 
