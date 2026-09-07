@@ -30,7 +30,7 @@ I have currently obtained GitHub Foundation and Admin credentials and am continu
 
 | 자격증 | 상태 | 취득/시험일 | 상세 |
 |--------|------|-----------|------|
-| <img width="80" height="80" alt="AWS Solutions Architect Associate" src="https://github.com/user-attachments/assets/3e432607-df44-4cf4-9260-88d55dfc8c05" /> | 📚 Preparing | - | [AWS SAA](https://github.com/geonwoo8873/tour-learn-collection/tree/main/SAA) |
+| <img width="80" height="80" alt="AWS Solutions Architect Associate" src="https://github.com/user-attachments/assets/3e432607-df44-4cf4-9260-88d55dfc8c05" /> | 📚 Preparing | - | [AWS SAA](https://github.com/geonwoo8873/tour-learn-collection/tree/main/aws) |
 | <img width="80" height="80" alt="GitHub Admin" src="https://github.com/user-attachments/assets/143f029e-a4e4-46f4-9282-b49e9c2e8ce9"> | ✅ Acquisition | 05/09/2026 | [GitHub Credential](https://github.com/geonwoo8873/tour-learn-collection/tree/main/github-crdential) |
 | <img width="80" height="80" alt="GitHub Foundations" src="https://github.com/user-attachments/assets/1904f4b8-27cd-4de0-a6e1-484d92e44698" /> | ✅ Acquisition | 30/05/2026 | [GitHub Credential](https://github.com/geonwoo8873/tour-learn-collection/tree/main/github-crdential) |
 
