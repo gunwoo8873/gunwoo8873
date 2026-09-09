@@ -59,7 +59,7 @@ I have currently obtained GitHub Foundation and Admin credentials and am continu
 | NAME              | STATUS  |     TYPE     | SKILL STACKS                                                           | POSITION | REPOSITORY                                                        |
 | ----------------- | :-----: | :----------: | ------------------------------------------------------------------ | :------: | ----------------------------------------------------------------- |
 | Tour Learn Collection         | Running |    Learn     | ![My Skills](https://skillicons.dev/icons?i=go,net,mysql,github) |    -     | [tour-learn-collection](https://github.com/geonwoo8873/tour-learn-collection)             |
-| Not Edit Project Name | Pending | Team Project | ![My Skills](https://skillicons.dev/icons?i=python,go,ubuntu,mysql,github) | - | |
+| Not Edit Project Name | Pending | Team Project | ![My Skills](https://skillicons.dev/icons?i=python,go,ubuntu,docker,k8s,mysql,github) | - | |
 | Bank System Cloud | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,k8s,github) | DevOps[`CI/CD`] | [likelion-bootcamp-project](https://github.com/geonwoo8873/likelion-bootcamp-project) |
 | Rust Discord Bot | Exit | Personal Project | ![My Skills](https://skillicons.dev/icons?i=rust,bash,docker,github) | - | [Rust-DiscordBot](https://github.com/geonwoo8873/Rust-DiscordBot) |
 | Smart Waste Container | Exit | Team Project | ![My Skills](https://skillicons.dev/icons?i=c) | Dev[`Leader`] | [smart-waste-container](https://github.com/geonwoo8873/smart-waste-container) |
